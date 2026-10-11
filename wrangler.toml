@@ -1,0 +1,13 @@
+name = "canocano-shop"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "out"
+
+[vars]
+NEXT_PUBLIC_TOSS_CLIENT_KEY = "test_ck_D5GePWvyJnrK0W0k6q8gLzN97Eoq"
+TOSS_SECRET_KEY = "test_sk_Z1aOwX7K8m2Y0q6k5y38yQxNWPvl"
+NEXT_PUBLIC_SITE_URL = "https://canocano.shop"
+
+[[kv_namespaces]]
+binding = "CANO_STORE"
+id = "add1a01d3d09449d846fd7ae6a2e2c0c"
+
